@@ -38,7 +38,7 @@ This GitHub hosts experimental research code, applied machine learning projects,
 |------|-------------|
 | ML / DL | PyTorch, TensorFlow, Keras, HuggingFace |
 | NLP | Transformers, Text Classification, Conversational AI |
-| Backend | FastAPI, Flask, RESTful APIs |
+| Backend | FastAPI, RESTful APIs |
 | Frontend | React, Next.js, TypeScript, Tailwind CSS |
 | Data | NumPy, Pandas, Scikit-learn |
 | Tooling | Docker, Git, Jupyter, CI/CD |
