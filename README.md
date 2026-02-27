@@ -84,7 +84,7 @@ Research & Engineering Portfolio
 
 For academic and professional context:
 - LinkedIn: https://www.linkedin.com/in/lenafaraji  
-- Contact: lenafaraji.ml@gmail.com  
+- Contact: lenafaraji.dev@gmail.com 
 
 ---
 
